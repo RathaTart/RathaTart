@@ -89,7 +89,7 @@ Expected graduation: **2027** · GPA: **3.21**
 
 Previously studied Science and Mathematics at **Kamnoetvidya Science Academy (KVIS)**, 2019–2022.
 
-**Publication:** *EEG-BBNet: A Hybrid Framework for Brain Biometric using Graph Connectivity* — IEEE ECTI-CON, 2022.
+**Publication:** *[EEG-BBNet: A Hybrid Framework for Brain Biometric using Graph Connectivity](https://arxiv.org/abs/2208.08901)* — IEEE ECTI-CON, 2022. · [Read the paper (PDF)](https://arxiv.org/pdf/2208.08901)
 
 <details>
 <summary><strong>More projects & experiments</strong></summary>
