@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-label="Ratha Rotruchiphong. Software Engineer. Backend systems, applied AI, cloud.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-label="Ratha Rotruchiphong. Software Engineer. Full-stack engineering, applied AI, cloud.">
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101d31"/><stop offset="1" stop-color="#0b1422"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#89aecc" stroke-opacity=".06"/></pattern></defs>
 <rect width="1280" height="380" rx="22" fill="url(#bg)"/>
 <rect width="1280" height="380" rx="22" fill="url(#grid)"/>
@@ -6,7 +6,7 @@
 <g font-family="Segoe UI,Arial,sans-serif">
 <text x="60" y="63" font-size="16" letter-spacing="4" fill="#77e4c8">RATHATART / SOFTWARE ENGINEER</text>
 <text x="56" y="148" font-size="58" font-weight="700" letter-spacing="-2" fill="#f3f7fc">Ratha Rotruchiphong</text>
-<text x="60" y="200" font-size="27" fill="#b9c9de">Backend systems. Applied AI. Cloud.</text>
+<text x="60" y="200" font-size="27" fill="#b9c9de">Full-stack engineering. Applied AI. Cloud.</text>
 <text x="60" y="266" font-size="19" fill="#8fa6c1">Building the services behind useful products.</text>
 <text x="60" y="326" font-size="15" letter-spacing="1" fill="#b9c9de">BANGKOK, THAILAND</text>
 <circle cx="267" cy="320" r="3" fill="#77e4c8"/>

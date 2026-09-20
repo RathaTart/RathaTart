@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Ratha Rotruchiphong — Software Engineer. Backend systems, applied AI, cloud. Bangkok, Thailand. KMITL Computer Engineering, expected graduation 2027." />
+  <img src="assets/header.svg" width="100%" alt="Ratha Rotruchiphong — Software Engineer. Full-stack engineering, applied AI, cloud. Bangkok, Thailand. KMITL Computer Engineering, expected graduation 2027." />
 </p>
 
 <p align="center">
-  <a href="mailto:ratha.tart@gmail.com"><strong>Email me</strong></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/ratha-rotruchiphong-a2601039a/"><strong>LinkedIn</strong></a> &nbsp; / &nbsp; <a href="mailto:ratha.tart@gmail.com"><strong>Email me</strong></a> &nbsp; / &nbsp;
   <a href="#selected-projects"><strong>Explore my work</strong></a> &nbsp; / &nbsp;
   <a href="#experience"><strong>Experience</strong></a>
 </p>
 
 ## Hi, I'm Tart 👋
 
-I'm **Ratha Rotruchiphong**, a Software Engineer at **NoviTech AI Solutions** and a **Computer Engineering student at KMITL**, graduating in **2027**. I build backend services, integrate AI/LLM features, and deploy applications on AWS.
+I'm **Ratha Rotruchiphong**, a Software Engineer at **NoviTech AI Solutions** and a **Computer Engineering student at KMITL**, graduating in **2027**. I build full-stack web applications and backend services, integrate AI/LLM features, and deploy applications on AWS.
 
 My work spans agri-tech products, government workflow systems, and collaborative web applications. I enjoy connecting the pieces—from database design and API development to the interface people actually use.
 
@@ -59,7 +59,7 @@ My work spans agri-tech products, government workflow systems, and collaborative
 **Backend Developer · Chachoengsao PAO Management System**<br />
 *August–September 2025 · Project with Chachoengsao Provincial Administrative Organization*
 
-- Developed an intranet supporting council meetings, official documents, and approval workflows.
+- Developed an intranet supporting council meetings, official documents, royal decorations tracking, and approval workflows.
 - Built REST APIs with Go/Echo and PostgreSQL, using role-based access control, MinIO storage, Docker, and SMS notifications.
 
 <details>
@@ -84,7 +84,7 @@ Prototyping computer-vision models with Python and YOLO for person detection in 
 
 ## Education & research
 
-**B.Eng. in Computer Engineering · KMITL**<br />
+**B.Eng. in Computer Engineering · King Mongkut's Institute of Technology Ladkrabang (KMITL)**<br />
 Expected graduation: **2027** · GPA: **3.21**
 
 Previously studied Science and Mathematics at **Kamnoetvidya Science Academy (KVIS)**, 2019–2022.
@@ -104,6 +104,6 @@ Previously studied Science and Mathematics at **Kamnoetvidya Science Academy (KV
 ---
 
 **Let's connect:** [ratha.tart@gmail.com](mailto:ratha.tart@gmail.com) · Bangkok, Thailand<br />
-Interested in conversations about backend engineering, applied AI, and building useful software.
+Interested in full-stack and software engineering opportunities where I can turn practical problems into useful, maintainable software.
 
 <!-- Original visuals and layout. Design references are documented in DESIGN.md. -->
