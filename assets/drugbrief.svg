@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="240" viewBox="0 0 600 240" role="img" aria-label="DrugBrief: Drug information, with sources">
+<rect x="1" y="1" width="598" height="238" rx="15" fill="#101c2d" stroke="#2a3c51"/>
+<rect x="26" y="28" width="4" height="19" rx="2" fill="#f5cc89"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="42" y="43" font-size="13" letter-spacing="2" fill="#f5cc89">03 / AI INTEGRATION</text>
+<text x="30" y="102" font-size="36" font-weight="700" fill="#f2f6fc">DrugBrief</text>
+<text x="30" y="140" font-size="20" fill="#b9c9de">Drug information, with sources</text>
+<path d="M30 165H570" stroke="#2a3c51"/>
+<text x="30" y="202" font-size="17" fill="#f5cc89">TypeScript · React · OpenRouter</text>
+<text x="531" y="99" font-size="28" text-anchor="middle" fill="#f5cc89" opacity=".75">AI</text>
+</g></svg>
